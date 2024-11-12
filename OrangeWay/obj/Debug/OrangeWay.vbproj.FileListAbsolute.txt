@@ -1,0 +1,15 @@
+c:\users\kantari\documents\visual studio 2013\Projects\OrangeWay\OrangeWay\bin\Debug\OrangeWay.exe.config
+c:\users\kantari\documents\visual studio 2013\Projects\OrangeWay\OrangeWay\bin\Debug\OrangeWay.exe
+c:\users\kantari\documents\visual studio 2013\Projects\OrangeWay\OrangeWay\bin\Debug\OrangeWay.pdb
+c:\users\kantari\documents\visual studio 2013\Projects\OrangeWay\OrangeWay\bin\Debug\OrangeWay.xml
+c:\users\kantari\documents\visual studio 2013\Projects\OrangeWay\OrangeWay\obj\Debug\OrangeWay.Resources.resources
+c:\users\kantari\documents\visual studio 2013\Projects\OrangeWay\OrangeWay\obj\Debug\OrangeWay.vbproj.GenerateResource.Cache
+c:\users\kantari\documents\visual studio 2013\Projects\OrangeWay\OrangeWay\obj\Debug\OrangeWay.exe
+c:\users\kantari\documents\visual studio 2013\Projects\OrangeWay\OrangeWay\obj\Debug\OrangeWay.xml
+c:\users\kantari\documents\visual studio 2013\Projects\OrangeWay\OrangeWay\obj\Debug\OrangeWay.pdb
+c:\users\kantari\documents\visual studio 2013\Projects\OrangeWay\OrangeWay\obj\Debug\OrangeWay.Login.resources
+c:\users\kantari\documents\visual studio 2013\Projects\OrangeWay\OrangeWay\obj\Debug\OrangeWay.Orangeway.resources
+c:\users\kantari\documents\visual studio 2013\Projects\OrangeWay\OrangeWay\obj\Debug\OrangeWay.Export.resources
+c:\users\kantari\documents\visual studio 2013\Projects\OrangeWay\OrangeWay\obj\Debug\OrangeWay.Parametrage.resources
+c:\users\kantari\documents\visual studio 2013\Projects\OrangeWay\OrangeWay\obj\Debug\OrangeWay.Verger.resources
+c:\users\kantari\documents\visual studio 2013\Projects\OrangeWay\OrangeWay\obj\Debug\OrangeWay.Versement.resources
